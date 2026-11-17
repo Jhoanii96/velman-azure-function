@@ -1,0 +1,21 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "FastFieldUser": "<FASTFIELD_USER>",
+    "FastFieldPassword": "<FASTFIELD_PASSWORD>",
+    "FastFieldAPIKey": "<FASTFIELD_API_KEY>",
+    "AzuSQLServerName": "<SQL_SERVER>",
+    "AzuSQLDatabase": "<SQL_DATABASE>",
+    "AzuSQLUser": "<SQL_USER>",
+    "AzuSQLSecret": "<SQL_PASSWORD>",
+    "KomatsuUsername": "<KOMATSU_USERNAME>",
+    "KomatsuPassword": "<KOMATSU_PASSWORD>",
+    "KomatsuTokenUrl": "<KOMATSU_TOKEN_URL>",
+    "KomatsuUrlRoot": "<KOMATSU_URL_ROOT>",
+    "KomatsuUrlBaseTimeSeries": "<KOMATSU_TIMESERIES_URL>",
+    "KomatsuId": "<KOMATSU_ID>",
+    "KomatsuSchema": "kom"
+  }
+}
